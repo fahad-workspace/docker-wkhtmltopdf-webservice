@@ -1,0 +1,40 @@
+### Log file ###
+*.log
+
+### BlueJ files ###
+*.ctxt
+
+### Package Files ###
+*.zip
+*.rar
+
+### Eclipse ###
+*.classpath
+*.settings/
+*.project
+
+### Mac ###
+*.DS_Store
+
+### Temp ###
+cache/
+temp/
+
+### Extra ###
+.settings/
+dist/
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.ipr
+*.imltarget
+
+### NetBeans ###
+nbproject/private/
+nbbuild/
+nbdist/
+.nb-gradle/
+
+### Extra ###
+/.tern-project
